@@ -1,0 +1,37 @@
+Components Information
+
+1. Arduino Uno
+
+Arduino Uno is the main controller of the robotic car. It processes sensor data and controls the motors.
+
+2. L298N Motor Driver
+
+It controls the speed and direction of the DC motors.
+
+3. Ultrasonic Sensor (HC-SR04)
+
+It detects obstacles by measuring the distance between the robot and nearby objects.
+
+4. DC Motors
+
+These motors help the robotic car move forward, backward, and turn.
+
+5. 7.4V Battery
+
+It provides electrical power to the robotic car.
+
+6. Robot Chassis
+
+It provides the physical structure for mounting all components.
+
+7. Breadboard
+
+It helps in making temporary electrical connections.
+
+8. Jumper Wires
+
+They connect different electronic components.
+
+9. ON/OFF Switch
+
+It is used to turn the robotic car ON and OFF.
